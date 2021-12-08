@@ -1,4 +1,4 @@
-# flutter_experiment
+# Basic Flutter Camera Tutorial
 
 A new Flutter project.
 
